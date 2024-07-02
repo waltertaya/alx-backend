@@ -103,10 +103,9 @@ Read or watch the following resources to help you complete this project:
 
 ## Submission
 
-- Ensure all code is documented.
-- Make sure all functions and methods are type-annotated.
-- Test your application thoroughly.
-- Request a manual QA review when done.
+- All code is documented.
+- All functions and methods are type-annotated.
+- Test application thoroughly.
 
 ## Repository
 
